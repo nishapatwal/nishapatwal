@@ -9,21 +9,26 @@ I build web applications and solve problems with data structures and algorithms.
 - 🌱 **Learning next:** Spring Boot and System Design
 
 ## 🛠 Tech Stack
-<table>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" /><br>Java</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><br>JavaScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" /><br>TypeScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" /><br>React</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" /><br>SQL</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /><br>Python</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br>HTML5</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br>CSS3</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /><br>Git</td>
-  </tr>
-</table>
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,c&theme=dark" alt="Languages" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
 
 ## Featured Projects
 - **[ProjectBridge](https://github.com/nishapatwal/ProjectBridge)**: connects businesses with student engineering teams, with role-based auth and protected dashboards (TypeScript)
