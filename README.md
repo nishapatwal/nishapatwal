@@ -3,22 +3,27 @@
 
 I build web applications and solve problems with data structures and algorithms. I'm looking for an **SDE / Web Development internship** where I can contribute to real products and keep learning.
 
-- **Building:** full stack apps with authentication, dashboards and databases (see ProjectBridge and PG-life)
-- **Solving:** DSA problems in Java, organised by pattern, with 100+ problems on LeetCode
-- **Exploring:** agentic AI with Python (RecoverAI)
-- **Learning next:** [Spring Boot / System Design]
-- **Reach me:** [LinkedIn](https://www.linkedin.com/in/nisha-patwal-286842333) · [LeetCode](https://leetcode.com/u/Nisha_Patwal06/)
+- 💻 **Building:** full stack apps with authentication, dashboards and databases (see ProjectBridge and PG-life)
+- 🧠 **Solving:** DSA problems in Java, organised by pattern, with 100+ problems on LeetCode
+- 🤖 **Exploring:** agentic AI with Python (RecoverAI)
+- 🌱 **Learning next:** Spring Boot and System Design
 
-## Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠 Tech Stack
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" /><br>Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><br>JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" /><br>TypeScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" /><br>React</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" /><br>SQL</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /><br>Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br>HTML5</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br>CSS3</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /><br>Git</td>
+  </tr>
+</table>
 
 ## Featured Projects
 - **[ProjectBridge](https://github.com/nishapatwal/ProjectBridge)**: connects businesses with student engineering teams, with role-based auth and protected dashboards (TypeScript)
@@ -31,5 +36,5 @@ I build web applications and solve problems with data structures and algorithms.
 - Building full stack projects with Ai integration
 - Learning Claude Coding
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/nisha-patwal-286842333) · [LeetCode](https://leetcode.com/u/Nisha_Patwal06/)
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/nisha-patwal-286842333) · [LeetCode](https://leetcode.com/u/Nisha_Patwal06/) · nisha.patwal2006@gmail.com
