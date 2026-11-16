@@ -28,8 +28,8 @@ I build web applications and solve problems with data structures and algorithms.
 
 ## Currently
 - Solving DSA problems in Java on [LeetCode](https://leetcode.com/u/Nisha_Patwal06/)
-- Building full stack projects
-- [Add one thing you're learning, e.g. Spring Boot / System Design]
+- Building full stack projects with Ai integration
+- Learning Claude Coding
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/nisha-patwal-286842333) · [LeetCode](https://leetcode.com/u/Nisha_Patwal06/) · [your email]
+[LinkedIn](https://www.linkedin.com/in/nisha-patwal-286842333) · [LeetCode](https://leetcode.com/u/Nisha_Patwal06/)
