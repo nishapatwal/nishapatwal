@@ -12,7 +12,7 @@ I build web applications and solve problems with data structures and algorithms.
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" alt="Languages" />
 
 **Frontend**
 <br>
@@ -24,7 +24,7 @@ I build web applications and solve problems with data structures and algorithms.
 
 **Database**
 <br>
-<img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="Database" />
 
 **Tools**
 <br>
