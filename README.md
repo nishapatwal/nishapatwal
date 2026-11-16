@@ -8,11 +8,11 @@ I build web applications and solve problems with data structures and algorithms.
 - **Exploring:** agentic AI with Python (RecoverAI)
 - **Learning next:** Spring Boot and System Design
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,c&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" alt="Languages" />
 
 **Frontend**
 <br>
@@ -20,15 +20,15 @@ I build web applications and solve problems with data structures and algorithms.
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend" />
 
 **Database**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="Database" />
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Database" />
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Tools" />
 
 ## Featured Projects
 - **[ProjectBridge](https://github.com/nishapatwal/ProjectBridge)**: connects businesses with student engineering teams, with role-based auth and protected dashboards (TypeScript)
