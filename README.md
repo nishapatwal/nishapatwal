@@ -3,12 +3,12 @@
 
 I build web applications and solve problems with data structures and algorithms. I'm looking for an **SDE / Web Development internship** where I can contribute to real products and keep learning.
 
-- 💻 **Building:** full stack apps with authentication, dashboards and databases (see ProjectBridge and PG-life)
-- 🧠 **Solving:** DSA problems in Java, organised by pattern, with 100+ problems on LeetCode
-- 🤖 **Exploring:** agentic AI with Python (RecoverAI)
-- 🌱 **Learning next:** Spring Boot and System Design
+- **Building:** full stack apps with authentication, dashboards and databases (see ProjectBridge and PG-life)
+- **Solving:** DSA problems in Java, organised by pattern, with 100+ problems on LeetCode
+- **Exploring:** agentic AI with Python (RecoverAI)
+- **Learning next:** Spring Boot and System Design
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 <br>
@@ -41,5 +41,5 @@ I build web applications and solve problems with data structures and algorithms.
 - Building full stack projects with Ai integration
 - Learning Claude Coding
 
-## 📫 Connect
+## Connect
 [LinkedIn](https://www.linkedin.com/in/nisha-patwal-286842333) · [LeetCode](https://leetcode.com/u/Nisha_Patwal06/) · nisha.patwal2006@gmail.com
