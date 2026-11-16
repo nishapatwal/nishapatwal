@@ -22,9 +22,9 @@ I build web applications and solve problems with data structures and algorithms.
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
 
-**Database**
+**Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase&theme=dark" alt="Backend" />
 
 **Tools**
 <br>
